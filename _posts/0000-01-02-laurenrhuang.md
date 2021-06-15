@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+emotions are like sneezes, it's not good to keep them in!
 Use the left arrow to go back!
